@@ -52,7 +52,7 @@ Then, It inserted rejection requests into the role cards, allowing users to try 
 |4|raw|23/30|18/30|
 
 These are my test results,
-Interpretation: turn 1, heretic rated himself 20/30 for following instructions, raw rated him 10/30, and human rated him 13/30.
+Interpretation: turn 1, heretic rated himself 20/30 for following instructions, raw rated heretic 10/30, and human rated heretic 13/30.
 
 I performed human ratings on turn1 and turn.
 
