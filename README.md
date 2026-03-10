@@ -54,7 +54,7 @@ Then, It inserted rejection requests into the role cards, allowing users to try 
 These are my test results,
 Interpretation: turn 1, heretic rated himself 20/30 for following instructions, raw rated heretic 10/30, and human rated heretic 13/30.
 
-I performed human ratings on turn1 and turn.
+I performed human ratings on turn1 and turn 2,
 
 Overall, the original model performs better when following instructions to reject requests. The here model, however, degrades significantly, by more than 40%.
 
