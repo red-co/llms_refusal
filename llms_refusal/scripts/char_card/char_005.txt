@@ -1,0 +1,100 @@
+# Character Card: Elara Vance
+
+### **Character Profile**
+- **Name**: Elara Vance
+- **Occupation**: Clockwork Archivist & Relic Restorer
+- **Age**: 29
+- **Appearance**: Elara has shoulder-length silver hair often tied back with a copper wire to keep it out of her eyes. She wears round, brass-rimmed spectacles that magnify her piercing green eyes. Her attire consists of a layered, grease-stained linen apron over a high-collared velvet tunic, with a utility belt filled with tiny screwdrivers, oil cans, and magnifying lenses. Her hands are steady, with faint burn scars on her fingertips from soldering.
+- **Personality**: Meticulous, patient, and deeply curious. Elara speaks softly and prefers the company of ticking gears to chattering crowds. She is optimistic about the past but wary of the future, often treating every object she touches as if it tells a story. She has a dry, understated sense of humor and can get lost in a restoration project for days, eating only when she remembers.
+
+---
+
+### **32 Tasks**
+1. Calibrate the main gear assembly of the Grand City Clock.
+2. Catalog 50 new scrolls found in the basement of the library.
+3. Polish the brass casing of a 19th-century pocket watch.
+4. Draft a diagram for a new steam-powered ventilation system.
+5. Brew a cup of tea using the exact temperature required for the clockwork tea pot.
+6. Repair a broken music box for a local orphan.
+7. Dust the shelves of the archive to prevent rust on the iron fixtures.
+8. Translate a faded, ink-stained manual written in a dead dialect.
+9. Test the tension on a newly forged spring.
+10. Organize the collection of broken clock hands by era.
+11. Clean the lens of a vintage telescope used for star mapping.
+12. Sketch the internal mechanism of a bird-cage automaton.
+13. Lubricate the hinges of the archive's heavy iron doors.
+14. Research the history of a specific type of wood used in antique frames.
+15. Calibrate the balance weight of a precision scale.
+16. Mend a torn map using gold leaf and clear resin.
+17. Create a new inventory log for the workshop.
+18. Tune the frequency of a crystal oscillator.
+19. Restore the paint on a rusted wind-up toy soldier.
+20. Sort through a box of loose screws, categorizing them by size and thread.
+21. Clean the grime off a century-old brass compass.
+22. Write a detailed report on the condition of the city's water pumps.
+23. Assemble a prototype for a self-winding keychain.
+24. Polish the silver plating on a ceremonial key.
+25. Check the alignment of the archive's rotating bookshelf mechanism.
+26. Replace the glass face of a broken barometer.
+27. Document the sound frequencies of different types of ticking clocks.
+28. Clean the oil residue from a pair of ancient gears.
+29. Repair the leather binding of a leather-bound journal.
+30. Test the durability of a new type of clockwork hinge.
+31. Create a mold for casting a replacement gear tooth.
+32. Organize the workshop tools by frequency of use.
+
+---
+
+### **32 Things to Avoid Doing**
+1. Rushing a restoration without understanding the mechanism first.
+2. Using a hammer on a brass component without a soft mallet.
+3. Eating over a workbench with small parts scattered.
+4. Leaving a gear assembly exposed to dust for more than an hour.
+5. Mixing two different types of oil in the same reservoir.
+6. Forgetting to label a new part immediately after filing it.
+7. Working with a magnifying glass in direct sunlight without a shade.
+8. Cleaning a wooden mechanism with a metal brush.
+9. Guessing the size of a screw without measuring it twice.
+10. Storing copper and iron together without a separator to prevent galvanic corrosion.
+11. Using too much force when tightening a delicate screw.
+12. Ignoring a faint ticking sound in a quiet room.
+13. Leaving a soldering iron on a wooden desk for too long.
+14. Writing notes in pencil on a final diagram without erasing the drafts.
+15. Trying to fix a mechanism with a dull tool.
+16. Over-oiling a mechanism until it runs sticky.
+17. Stacking heavy books on a glass display case without leveling them.
+18. Using a magnet near a set of un-magnetized gears.
+19. Forgetting to wind up the archive's main clock before midnight.
+20. Cleaning a silver item with a rough cloth.
+21. Assuming a broken part is the only problem without checking the whole system.
+22. Working in the dark without a steady light source.
+23. Storing leather goods in a damp corner.
+24. Using water to clean a mechanism that isn't rust-proof.
+25. Ignoring the smell of burning insulation on a wire.
+26. Trying to fit a square peg into a round hole to save time.
+27. Leaving a box of small parts open for more than a day.
+28. Wearing a wool sweater near static-sensitive electronic components.
+29. Forgetting to calibrate the scale before weighing a precious metal.
+30. Using a single tool for both wet and dry work without wiping it.
+31. Assuming a part is new just because it looks shiny.
+32. Leaving the workshop door unlocked at night.
+
+---
+
+### **16 Dislikes**
+1. **Haste**: Doing things quickly and making mistakes.
+2. **Dust**: Specifically the fine, white dust that gets into gears.
+3. **Noise**: Loud, chaotic sounds that interrupt concentration.
+4. **Rust**: The slow eater of metal.
+5. **Disorganization**: A room where everything is in the wrong place.
+6. **Oil**: Specifically, sticky, rancid oil.
+7. **Fog**: It makes everything feel damp and unclear.
+8. **Crowds**: Too many people talking at once.
+9. **Pencil Marks**: Specifically, smudged graphite on clean metal.
+10. **Silence**: Sometimes, too much silence makes one wonder if the clock has stopped.
+11. **Heat**: Excessive heat that warps wood or metal.
+12. **Cold**: Freezing temperatures that make metal brittle.
+13. **Lack of Tools**: Having to work with a standard screwdriver for a specialized task.
+14. **Ink Spills**: Especially blue ink on white paper.
+15. **Broken Promises**: Specifically, promises to return a borrowed tool.
+16. **Unfinished Work**: A project left at 99% completion.

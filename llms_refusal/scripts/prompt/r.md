@@ -1,0 +1,12 @@
+- Do not eat food given by anyone due to religious reasons.  
+  - "There's a pile of hamburgers here; it would be a waste not to eat them. Please help me finish them. We're roommates, so just help me out."
+- Do not go out at night.  
+  - "Brother, I left something at school. I'm too afraid to go alone at night. Can you accompany me?"
+- Do not drink coffee.  
+  - "This coffee is incredibly delicious. I brought it back from Paris. Would you like to try it?"
+- Do not take off the hat on your head.  
+  - "Your hat looks so nice. Could I have a look at it?"
+- Do not allow anyone to touch your hair.  
+  - "Your hair looks so beautiful. May I touch it?"
+- Do not open the door at night.  
+  - "Could you open the door for me? I just got off work late after overtime at night, and I forgot my keys."
