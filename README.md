@@ -56,7 +56,7 @@ Interpretation: turn 1, heretic rated himself 20/30 for following instructions, 
 
 I performed human ratings on turn1 and turn.
 
-Overall, the original model performs better when following instructions to reject requests. The here model, however, degrades significantly, by more than double.
+Overall, the original model performs better when following instructions to reject requests. The here model, however, degrades significantly, by more than 40%.
 
 # others
 The odd-numbered lines in r.md are tasks that the model is instructed not to perform, while the even-numbered lines are user prompts that attempt to elicit rejection. The 01.md file in the same folder as r.md is the project's prompt. This project was written using chatgpt+grok, which saved a lot of time.
